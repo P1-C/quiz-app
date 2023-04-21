@@ -1,0 +1,55 @@
+.question-form-controls {
+    text-align: left;
+    padding: 2px 14px;
+    display: flex;
+    flex-direction: column;
+}
+
+.question-form-control{
+    display: flex;
+    margin: 5px 0px;
+}
+.question-form-control h4 {
+    display: inline;
+}
+
+.question-form-control input {
+    padding: 5px 10px;
+    margin-left: 20px ;
+    flex-grow: 100;
+}
+.question-form-control div {
+    flex-grow: 100;
+    display: flex;
+}
+.question-form-control div select {
+    flex-grow: 78;
+}
+
+.question-form-control div label {
+    flex-grow: 22;
+    text-align: center;
+}
+
+.question-form-control label {
+    padding: 5px 5px;
+    margin-left: 0px;
+}
+
+button {
+    width: 50%;
+    display: inline;
+    font-size: medium;
+    height: 38px;
+    font-weight: 700;
+    color: white;
+    background-color: #282c34;
+    margin: 10px 5px 10px 5px;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+
+.error {
+    border: 2px solid red;
+}

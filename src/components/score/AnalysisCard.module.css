@@ -1,0 +1,33 @@
+.delete {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+}
+
+.options {
+    border: 1px solid;
+    background: #6e7797;
+    color: aliceblue;
+    padding: 8px;
+    border-radius: 6px;
+    /* cursor: pointer; */
+    margin: 4px;
+    padding: 6px;
+}
+
+.correct {
+    background: #d25252;
+}
+.incorrect {
+    background: #43944b;
+}
+
+.option-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.option-container > div {
+    flex: 50%;
+    display: grid;
+}

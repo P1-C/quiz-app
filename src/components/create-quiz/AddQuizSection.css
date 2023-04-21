@@ -1,0 +1,8 @@
+.add-quiz-section {
+    color: black;
+    border: 1px solid black;
+    border-radius: 14px;
+    background: aliceblue;
+    min-width: 800px;
+    max-width: 800px;
+}

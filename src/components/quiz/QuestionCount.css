@@ -1,0 +1,12 @@
+.question-count {
+    display: flex;
+    flex-direction: row-reverse;
+    margin: 8px 6px 0px 0px;
+}
+
+.count-box {
+    background-color: #282c34;
+    color: aliceblue;
+    padding: 16px 10px;
+    border-radius: 5px;
+}

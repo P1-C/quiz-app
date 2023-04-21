@@ -1,0 +1,33 @@
+.actions {
+    display: flex;
+    width: max-content;
+    justify-content: flex-end;
+    width: 100%;
+}
+
+.actions button {
+    max-width: 120px;
+}
+
+.success {
+    text-align: center;
+}
+
+.success h2 {
+    color: rgb(23, 105, 31);
+}
+
+.modal {
+    min-width: 750px;
+    overflow-wrap: normal;
+    max-height: 80vh;
+}
+
+.analysis-card-section {
+    overflow: scroll;
+    max-height: 60vh;
+}
+
+.analysis-card-section ::-webkit-scrollbar {
+    display: none;
+}

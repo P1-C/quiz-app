@@ -1,0 +1,18 @@
+.user-role {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.user-role h4 {
+    padding: 0px;
+    margin: 2px;
+}
+
+.user-role h5 {
+    padding: 0px;
+    color: #445491;
+    margin: 2px;
+    text-align: center;
+    
+}

@@ -1,0 +1,26 @@
+.question-card {
+    padding: 12px;
+    border: 2xp solid black;
+    border: 2px solid black;
+    margin: 12px;
+    border-radius: 16px;
+}
+
+label {
+    padding-left: 10px;
+}
+
+.options {
+    border: 1px solid;
+    background: #6e7797;
+    color: aliceblue;
+    padding: 8px;
+    border-radius: 6px;
+    cursor: pointer;
+    margin: 4px;
+    padding: 6px;
+}
+.options:hover {
+    background: #282c34;
+    
+}

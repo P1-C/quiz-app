@@ -1,0 +1,41 @@
+.login {
+    margin: 8rem auto;
+    padding: 2rem;
+    width: 100%;
+    min-width: 28rem;
+    /* display: flex;
+    justify-content: space-around; */
+}
+
+.login h1 {
+    margin: 0;
+    text-align: center;
+    align-self: center;
+}
+
+.login hr {
+    border: 4px;
+}
+
+.login input {
+    width: 100%;
+    height: 30px;
+}
+
+.login button {
+    margin-top: 30px;
+    margin-left: 0px;
+    width: 100%;
+    height: 50px;
+}
+
+.toggle {
+  width:100%;
+  color: black;
+  text-align: center;
+  margin: 0px;
+  cursor: pointer;
+}
+.toggle:hover {
+  color: rgb(75, 104, 220);
+}

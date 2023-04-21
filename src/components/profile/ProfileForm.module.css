@@ -1,0 +1,38 @@
+.form {
+  width: 100%;
+  min-width: 20rem;
+  margin: 1.5rem auto;
+}
+
+.control {
+  margin-bottom: 0.5rem;
+}
+
+.control label {
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+  color: #353336;
+  display: block;
+}
+
+.control input {
+  /* display: block; */
+  font: inherit;
+  /* width: 100%; */
+  padding: 0.25rem;
+}
+
+.action {
+  margin-top: 1.5rem;
+}
+
+.action button {
+  font: inherit;
+  cursor: pointer;
+  color: aliceblue;
+    width: 60%;
+}
+
+.action button:hover {
+  border-color: aliceblue;
+}
